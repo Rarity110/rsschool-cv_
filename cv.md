@@ -8,7 +8,7 @@
 * GitHub: rarity110
 ***
 ### About myself
-Nowadays I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of a paying capacity of companies. So I succesfully finished the stage 0 at RS School. And I'm excited about my learning at this school. I really want to realize myself as a developer.
+Currently I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of a paying capacity of companies. So I succesfully finished the stage 0 at RS School. And I'm excited about my learning at this school. I really want to realize myself as a developer.
 ***
 ### Skills
 * HTML
