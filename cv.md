@@ -8,10 +8,12 @@
 * GitHub: rarity110
 
 ***
+
 ### About myself
 Currently I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of a paying capacity of companies. So I succesfully finished the stage 0 at RS School. And I'm excited about my learning at this school. I really want to realize myself as a developer.
 
 ***
+
 ### Skills
 * HTML
 * CSS
@@ -19,6 +21,7 @@ Currently I work as an economist at a bank. It’s a great job. But I always fee
 * Figma
 
 ***
+
 ### Code example
 ```
 function duplicateCount(text){
@@ -42,6 +45,7 @@ function duplicateCount(text){
 ```
 
 ***
+
 ### Experience
 2004-Currently - Economist, bank
 
@@ -50,11 +54,13 @@ function duplicateCount(text){
 [tic-tac-toe](https://rolling-scopes-school.github.io/rarity110-JSFEPRESCHOOL/tic-tac/) 
 
 ***
+
 ### Education
 * 1999-2004 - Вelarus State Economic University, Finance and  Banking, economist
 * 2022 - RS School, Course «JavaScript/Front-end. Stage 0»
 * RS School, Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ***
+
 ### Language
 English level - A2
