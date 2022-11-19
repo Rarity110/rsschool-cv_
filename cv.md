@@ -10,7 +10,9 @@
 ***
 
 ### About myself
-Currently I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of a paying capacity of companies. So I succesfully finished the stage 0 at RS School. And I'm excited about my learning at this school. I really want to realize myself as a developer.
+Nowadays I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of paying capacity of companies. I really want to realize myself as a developer.
+I'm 40. I live in Brest. I've got 2 sons (6 and 8 years). 
+I'm absolutely ready for a new job as a developer and I'm going to make my best in this profession.
 
 ***
 
@@ -19,6 +21,7 @@ Currently I work as an economist at a bank. It’s a great job. But I always fee
 * CSS
 * JavaScript
 * Figma
+* React
 
 ***
 
@@ -57,10 +60,12 @@ function duplicateCount(text){
 
 ### Education
 * 1999-2004 - Вelarus State Economic University, Finance and  Banking, economist
-* 2022 - RS School, Course «JavaScript/Front-end. Stage 0»
-* RS School, Course «JavaScript/Front-end. Stage 1» (in progress)
+* 2022 - RS Schools Course «JavaScript/Front-end. Stage 0»
+* 2022 - RS Schools Course «JavaScript/Front-end. Stage 1»
+* 2022 - RS Schools Course «JavaScript/Front-end. Stage 2»
+* 2022 - RS Schools Course «React» (in progress)
 
 ***
 
 ### Language
-English level - A2
+English level - B1+
