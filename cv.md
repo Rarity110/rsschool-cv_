@@ -12,7 +12,7 @@
 ### About myself
 Nowadays I work as an economist at a bank. It’s a great job. But I always feel that I like automation of any task more than analysis of paying capacity of companies. I really want to realize myself as a developer.
 I'm 40. I live in Brest. I've got 2 sons (6 and 8 years). 
-I'm absolutely ready for a new job as a developer and I'm going to make my best in this profession.
+I'm absolutely ready for a new job as a developer and I'm going to make my best at this profession.
 
 ***
 
